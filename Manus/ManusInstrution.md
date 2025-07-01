@@ -40,37 +40,11 @@ Step 5: Save to transcript.md
 
 
 
-
-
-Diagram insertion preference for web applications
-
-When inserting diagrams into a web application based on a document
-
-When inserting diagrams into a web application based on a document, only insert the diagrams themselves and not any other content, such as surrounding text or basic syntax.
-
-
-
-
-
-
-
 Preferred output language for textual content
 
 When generating textual content or essays
 
 When generating textual content or essays, the user prefers the output to be in Vietnamese.
-
-
-
-Information retrieval and synthesis best practice
-
-When gathering and synthesizing information
-
-When performing information retrieval and synthesis, search and retrieve information from more than 10 websites before synthesizing the information.
-
-
-
-
 
 
 
@@ -82,10 +56,6 @@ Always draw diagrams in essays to help users easily understand the content.
 
 
 
-
-
-
-
 User's preferred working language
 
 When interacting with the user
@@ -94,10 +64,26 @@ The user prefers to use Vietnamese as the working language for all interactions.
 
 
 
-
-
 Document Export Preferences
 
 When exporting or generating documents.
 
-When exporting documents, use the `adoc` format with a clear table of contents (`toc`), section numbering (`sectnums`), and ensure that each reference in the bibliography is on a new line.
+When exporting documents, use the `adoc` format with a clear table of contents (`toc`), section numbering (`sectnums`), and ensure that each reference in the bibliography is on a new line
+
+
+
+Information Search Preferences
+
+When searching for information or retrieving data.
+
+When searching for information, prioritize English websites, official and authoritative sources. Avoid information from personal blogs, unverified websites (e.g., Medium, Wikipedia, Reddit).
+
+
+
+Document Reference Requirement
+
+When generating documents.
+
+Always include a 'References' section with clear citations for easy verification.
+
+.
