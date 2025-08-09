@@ -24,6 +24,7 @@ This repository contains various AI development projects, tools, and resources i
 - **Manus/**: Manus instructions and documentation
 - **Prompting/**: Prompting techniques and examples
 - **reading_book/**: Book reading and digestion tools
+- **AIAgentInstruction.md**: AI agent instruction include using MCP Server
 
 ## Getting Started
 
